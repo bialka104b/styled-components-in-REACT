@@ -1,3 +1,15 @@
+### About project
+
+- example create button and STYLED COMPONENTS
+- REACT
+- css in js (styled-components) `npm i --save styled-components`
+
+|   TABLE    | ACTIVE true | ACTIVE false
+:-----------------:|:-----------:|:-----------:
+state normal |<img src="./img/normalTrue.jpg" width="240">|<img src="./img/normalFalse.jpg" width="240"> 
+state hover  |<img src="./img/hoverTrue.jpg" width="240">|<img src="./img/hoverFalse.jpg" width="240"> 
+-----------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
